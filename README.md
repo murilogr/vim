@@ -6,6 +6,6 @@ vim
 **Install**
 
 ```bash
-git clone git://github/murilogr/dotvim.git  ~/.vim
+git clone git://github/murilogr/vim.git  ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 ```
