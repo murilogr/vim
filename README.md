@@ -3,7 +3,7 @@ vim
 
  Personal VIM configuration files
 
-~~Install~~
+**Install**
 
 ```bash
 git clone git://github/murilogr/dotvim.git  ~/.vim
